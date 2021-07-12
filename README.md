@@ -1,5 +1,7 @@
 # JavaFx SliderShow Background Animation
 This is a simple way to create a custom AnchorPane that can change its background image using FadeTransition.
+# PS
+This is JavaFx 11
 
 # Usage
 
