@@ -26,3 +26,6 @@ This is JavaFx 11
     }
 
 ```
+
+# Tip
+If you like you can create the .jar file and import it in Scene Builder to use it with fxml.
