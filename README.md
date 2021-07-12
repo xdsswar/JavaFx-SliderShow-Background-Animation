@@ -17,7 +17,7 @@ This is a simple way to create a custom AnchorPane that can change its backgroun
         sliderShow.setPrefHeight(600);
         sliderShow.setPrefWidth(1024);
         //Initialize the SliderShow animation
-        sliderShow.initSliderShow(4,4);
+        sliderShow.initSliderShow(2,4);
         //Set the Scene and Show
         stage.setScene(new Scene(sliderShow));
         stage.show();
